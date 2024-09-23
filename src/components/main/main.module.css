@@ -1,0 +1,17 @@
+.main {
+  height: 70vh;
+}
+main .card {
+  background-color: #fff;
+  width: 350px;
+  border-radius: 0.8rem;
+  padding: 1.5rem 1rem;
+  margin-top: 2rem;
+}
+main .card .card_title {
+  margin-bottom: 0.5rem;
+}
+main .card .card_text {
+  color: #787878;
+  font-size: 1.3rem;
+}

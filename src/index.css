@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "NotoSansDisplay-Medium";
+  src: url("../src/assets/fonts/NotoSansDisplay-Medium.ttf");
+}
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "NotoSansDisplay-Medium";
+  background-color: #e9f4ff;
+}
+.container {
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
